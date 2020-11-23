@@ -1,0 +1,2 @@
+# django
+softuni django project
